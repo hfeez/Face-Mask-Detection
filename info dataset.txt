@@ -1,0 +1,6 @@
+dataset terdiri dari 3 kelas.
+Wajah bermasker dengan benar => mask
+Wajah bermasker dengan salah => wrong
+Wajah tidak bermasker => unmask
+
+data kelas 'mask' dan 'unmask' bersumber dari data penelitian Chandrika Deb Face-Mask-Detection [https://github.com/chandrikadeb7/Face-Mask-Detection.git]
